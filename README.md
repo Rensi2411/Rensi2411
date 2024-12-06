@@ -10,7 +10,7 @@
 
 - 📫 How to reach me *rensidudhat2411@gmail.com*
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/10RC6RmMsnJbVJZYfNfVQRxQyBQj0b2cw/view]
+- 📄 Know about my experiences [https://drive.google.com/file/d/1qiNEvCVQNxBuxLanW970kNQpAblv9p8I/view?usp=sharing]
   
 - Portfolio : https://Rensi2411.github.io 
 
