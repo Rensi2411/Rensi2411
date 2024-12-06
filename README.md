@@ -18,25 +18,26 @@
 
 ```javascript
 const rensi = {
-    pronouns: "She" | "Her" ,
-    code: ["JavaScript", "HTML", "CSS", "TypeScript"],
+    pronouns: "She" | "Her",
+    code: ["JavaScript", "HTML", "CSS"],
     askMeAbout: ["web development", "MERN stack", "RESTful APIs", "React", "Node.js"],
     technologies: {
         frontEnd: {
             js: ["React", "Redux"],
-            css: ["Tailwind Css"],
-            others: ["Responsive Design"]
+            css: ["Tailwind CSS"],
+            others: ["Responsive Design", "Figma"]
         },
         backEnd: {
             js: ["Node", "Express"],
             database: ["MongoDB"]
         },
     },
-    tools: ["Git", "VS Code", "Postman", "Thunder Client", "MongoDB Compass"],
+    tools: ["Git", "VS Code", "Postman", "Thunder Client", "MongoDB Compass", "Figma"],
     architecture: ["Single Page Applications"],
-    currentFocus: "Building scalable and efficient web applications with MERN stack",
+    currentFocus: "Building scalable and efficient web applications with the MERN stack",
     funFact: "Debugging is like being the detective in a crime movie where you are also the murderer."
 };
+
 
 ```
 
